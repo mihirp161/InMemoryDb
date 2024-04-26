@@ -1,5 +1,5 @@
 # InMemoryDb
-An in memory database with transaction support implemented with C++ 20 (extra credit).
+An in memory database with transaction support implemented with **C++ 20** (extra credit). The `optional<int>` is not used because it is part of C++ 17 standard.
 
 ##### Table of Contents
 - [Specification](#Specification)  
